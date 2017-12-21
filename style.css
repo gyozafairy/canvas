@@ -1,0 +1,365 @@
+#divApplab.appModern button,
+#divApplab.appModern button:hover {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  height: 30px;
+  width: 80px;
+  font-size: 14px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(26, 188, 156);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern label,
+#divApplab.appModern label:hover {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 2px;
+  padding-right: 2px;
+  padding-bottom: 2px;
+  padding-left: 2px;
+  line-height: 1;
+  font-size: 14px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  word-wrap: break-word;
+  color: rgb(51, 51, 51);
+  max-width: 320px;
+  width: 32px;
+  height: 19px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern input[type=text],
+#divApplab.appModern input[type=text]:hover {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  width: 200px;
+  height: 30px;
+  color: rgb(0, 0, 0);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern input[type=checkbox],
+#divApplab.appModern input[type=checkbox]:hover {
+  width: 12px;
+  height: 12px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern select,
+#divApplab.appModern select:hover {
+  width: 200px;
+  height: 30px;
+  font-size: 14px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(26, 188, 156);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern input[type=radio],
+#divApplab.appModern input[type=radio]:hover {
+  width: 12px;
+  height: 12px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern div.textArea,
+#divApplab.appModern div.textArea:hover {
+  width: 200px;
+  height: 100px;
+  font-size: 14px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern img,
+#divApplab.appModern img:hover {
+  height: 100px;
+  width: 100px;
+  object-fit: contain;
+  font-family: "object-fit: contain;";
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern canvas,
+#divApplab.appModern canvas:hover {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern div.screen,
+#divApplab.appModern div.screen:hover {
+  display: block;
+  height: 450px;
+  width: 320px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  z-index: 0;
+}
+
+#divApplab.appModern div.chart,
+#divApplab.appModern div.chart:hover {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern input[type=range],
+#divApplab.appModern input[type=range]:hover {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  width: 150px;
+  height: 24px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern #CanvasScreen {
+  background-size: 320px 450px;
+  background-image: url("https://studio.code.org/blockly/media/1x1.gif");
+  background-color: rgb(255, 255, 255);
+}
+
+#divApplab.appModern #Canvas {
+  width: 340px;
+  height: 515px;
+}
+
+#divApplab.appModern #background {
+  height: 460px;
+  width: 95px;
+  top: 2.22045e-16px;
+}
+
+#divApplab.appModern #label5 {
+  overflow-wrap: break-word;
+  width: 10px;
+  left: 35px;
+  top: 45px;
+  background-color: rgb(255, 255, 255);
+  height: 10px;
+}
+
+#divApplab.appModern #label6 {
+  overflow-wrap: break-word;
+  color: rgb(255, 255, 255);
+  left: 35px;
+  top: 75px;
+  background-color: rgb(255, 255, 255);
+  width: 6px;
+  height: 6px;
+}
+
+#divApplab.appModern #label2 {
+  overflow-wrap: break-word;
+  left: 35px;
+  top: 60px;
+  background-color: rgb(255, 255, 255);
+  height: 8px;
+  width: 8px;
+}
+
+#divApplab.appModern #null {
+  line-height: 0px;
+  top: 230px;
+  left: 830px;
+  display: block;
+}
+
+#divApplab.appModern #PenLabel {
+  overflow-wrap: break-word;
+  color: rgb(255, 255, 255);
+  width: 95px;
+  height: 20px;
+  text-align: center;
+  background-color: rgba(64, 99, 148, 0.43);
+}
+
+#divApplab.appModern #EraserLabel {
+  overflow-wrap: break-word;
+  color: rgb(255, 255, 255);
+  width: 95px;
+  height: 20px;
+  top: 100px;
+  text-align: center;
+  background-color: rgba(64, 99, 148, 0.43);
+}
+
+#divApplab.appModern #label1 {
+  overflow-wrap: break-word;
+  width: 17px;
+  left: 35px;
+  top: 130px;
+  background-color: rgb(0, 0, 0);
+  height: 17px;
+}
+
+#divApplab.appModern #ColorBtn {
+  height: 35px;
+  width: 85px;
+  background-color: rgba(123, 121, 245, 0.39);
+  left: 5px;
+  top: 225px;
+}
+
+#divApplab.appModern #ClearBtn {
+  height: 35px;
+  width: 85px;
+  background-color: rgb(189, 66, 69);
+  left: 5px;
+  top: 310px;
+}
+
+#divApplab.appModern #divider1 {
+  overflow-wrap: break-word;
+  color: rgb(255, 255, 255);
+  width: 95px;
+  height: 20px;
+  top: 155px;
+  background-color: rgba(64, 99, 148, 0.43);
+}
+
+#divApplab.appModern #divider2 {
+  overflow-wrap: break-word;
+  width: 95px;
+  height: 20px;
+  top: 275px;
+  background-color: rgba(64, 99, 148, 0.43);
+}
+
+#divApplab.appModern #divider3 {
+  overflow-wrap: break-word;
+  width: 95px;
+  height: 20px;
+  top: 360px;
+  background-color: rgba(64, 99, 148, 0.43);
+}
+
+#divApplab.appModern #TextInput {
+  width: 95px;
+  left: -1.11022e-16px;
+  top: 185px;
+}
+
+#divApplab.appModern #Eraser {
+  height: 15px;
+  width: 15px;
+  background-color: rgb(255, 255, 255);
+  left: 35px;
+  top: 130px;
+}
+
+#divApplab.appModern #PenSizeSmall {
+  height: 5px;
+  width: 5px;
+  background-color: rgb(0, 0, 0);
+  left: 35px;
+  top: 75px;
+}
+
+#divApplab.appModern #PenSizeBig {
+  height: 8px;
+  width: 8px;
+  background-color: rgb(0, 0, 0);
+  left: 35px;
+  top: 45px;
+}
+
+#divApplab.appModern #label3 {
+  color: rgb(0, 0, 0);
+  width: 13px;
+  height: 13px;
+  left: 35px;
+  top: 25px;
+  background-color: rgb(255, 255, 255);
+}
+
+#divApplab.appModern #PenSizeMedium {
+  height: 6px;
+  background-color: rgb(1, 2, 2);
+  left: 35px;
+  top: 60px;
+  width: 6px;
+}
+
+#divApplab.appModern #BucketTool {
+  width: 85px;
+  background-color: rgb(78, 199, 133);
+  left: 5px;
+  top: 390px;
+}
+
+#divApplab.appModern #PenSizeBiggest {
+  height: 12px;
+  width: 12px;
+  background-color: rgb(0, 0, 0);
+  top: 25px;
+  left: 35px;
+}
